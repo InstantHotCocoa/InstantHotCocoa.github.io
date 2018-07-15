@@ -8,7 +8,7 @@ permalink: /about/
 
 连这个网站都能找到你居然还不了解我？
 
-附初始about：
+附原始about：
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
