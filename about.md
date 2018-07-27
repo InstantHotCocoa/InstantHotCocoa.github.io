@@ -4,7 +4,7 @@ title: 关于我
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/-741b8a59a3ab442b.jpg" style="width: 334px;height: 359px;">
+<img src="{{ site.baseurl }}/assets/-741b8a59a3ab442b.jpg" style="width: 334px;height: 359px;" />
 
 连这个网站都能找到你居然还不了解我？
 

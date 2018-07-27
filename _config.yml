@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 保登面包房
-subtitle: "ほっとベーカリーへようこそ"
+title: 保登咖啡店
+subtitle: "ほっとカフェへようこそ"
 email: zzz8176@outlook.com
 name: name
 description: >
@@ -72,8 +72,8 @@ jekyll-archives:
 social:
   - name: Weibo
     icon: weibo
-    username: 小梦厨
-    url: https://weibo.com/u/2075881743
+    username: 速溶热可可
+    url: https://weibo.com/u/5227746866
     desc: 加关注
     share: true
 
