@@ -6,9 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/-741b8a59a3ab442b.jpg" style="width: 334px;height: 359px;" />
 
-连这个网站都能找到你居然还不了解我？
-
-附原始about：
+我是精神中国人跌丝。
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
