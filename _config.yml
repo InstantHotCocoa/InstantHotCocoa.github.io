@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: 保登咖啡店
 subtitle: "ほっとカフェへようこそ"
-email: zzz8176@outlook.com
+email: email@example.com
 name: name
 description: >
   Powered by Jekyll with Ben Centra's Centrarium theme on <a href=https://github.com/bencentra/centrarium>Github</a>.
@@ -128,7 +128,7 @@ social:
 
   - name: Steam
     icon: steam
-    username: hoto_mocha
+    username: haruta_cocoa
     url: https://steamcommunity.com/profiles/76561198179846601/
     desc: Friend me on Steam
     share: false
