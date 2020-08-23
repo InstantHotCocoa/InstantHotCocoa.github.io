@@ -9,6 +9,8 @@ comment_issue_id: 5
 
 连这个网站都能找到你居然还不了解我？
 
+Comments功能来自[https://jekyllcodex.org/without-plugin/comments/](https://jekyllcodex.org/without-plugin/comments/)，它有一个demo在[https://jekyllcodex.org/blog/gdpr-compliant-comment/](https://jekyllcodex.org/blog/gdpr-compliant-comment/)。删除了一些我看不懂的功能，比如设置和读取是否允许使用cookies的cookie和把调用github的API得到的结果存进local storage。
+
 附原始about：
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
