@@ -2,7 +2,7 @@
 layout: page
 title: 关于我
 permalink: /about/
-comment_issue_id: 5
+comment_issue_id: 6
 ---
 
 <img src="{{ site.baseurl }}/assets/-741b8a59a3ab442b.jpg" style="width: 334px;height: 359px;" />
